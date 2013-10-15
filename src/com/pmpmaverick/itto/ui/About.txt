@@ -1,0 +1,11 @@
+ITTO Explorer v1.0
+This application intends to help in the preparation for PMP exam.
+
+
+Software used:
+	Java
+	SwingX
+	HyperSQL DB
+
+Application Author:
+	Sagar Mainkar
